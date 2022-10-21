@@ -1,4 +1,4 @@
 pwd
-sklsdldld
+df- h
 
-dkdkdkldk
+ls
